@@ -1,0 +1,24 @@
+{
+  "name": "electron-store-data",
+  "version": "1.0.3",
+  "description": "A Node.js module to store Electron datas in the computer.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://ozgrozer@github.com/ozgrozer/electron-store-data.git"
+  },
+  "keywords": [
+    "electron",
+    "store",
+    "data"
+  ],
+  "author": "Ozgur Ozer <ozgr@live.com> (https://github.com/ozgrozer/electron-store-data)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozgrozer/electron-store-data/issues"
+  },
+  "homepage": "https://github.com/ozgrozer/electron-store-data#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
